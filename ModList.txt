@@ -14,6 +14,5 @@ https://thunderstore.io/package/download/Hexnet111/Dango_Scrap/1.0.1/
 https://thunderstore.io/package/download/IAmBatby/LethalLevelLoader/1.0.7/
 https://thunderstore.io/package/download/Evaisa/LethalLib/0.13.2/
 https://thunderstore.io/package/download/Evaisa/HookGenPatcher/0.0.5/
-https://thunderstore.io/package/download/fumiko/CullFactory/0.3.0/
 https://thunderstore.io/package/download/FlipMods/LetMeLookDown/1.0.1/
 https://thunderstore.io/package/download/scoopy/Scoopys_Variety_Mod/0.6.5/
