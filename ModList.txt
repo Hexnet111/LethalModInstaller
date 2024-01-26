@@ -15,3 +15,4 @@ https://thunderstore.io/package/download/IAmBatby/LethalLevelLoader/1.0.7/
 https://thunderstore.io/package/download/Evaisa/LethalLib/0.13.2/
 https://thunderstore.io/package/download/Evaisa/HookGenPatcher/0.0.5/
 https://thunderstore.io/package/download/KayNetsua/E_Gypt_Moon/2.0.13/
+https://thunderstore.io/package/download/fumiko/CullFactory/0.3.0/
