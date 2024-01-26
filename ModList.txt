@@ -11,3 +11,7 @@ https://thunderstore.io/package/download/JunLethalCompany/GamblingMachineAtTheCo
 https://thunderstore.io/package/download/Rune580/LethalCompany_InputUtils/0.6.0/
 https://thunderstore.io/package/download/AllToasters/SpectateEnemies/2.2.1/
 https://thunderstore.io/package/download/Hexnet111/Dango_Scrap/1.0.1/
+https://thunderstore.io/package/download/IAmBatby/LethalLevelLoader/1.0.7/
+https://thunderstore.io/package/download/Evaisa/LethalLib/0.13.2/
+https://thunderstore.io/package/download/Evaisa/HookGenPatcher/0.0.5/
+https://thunderstore.io/package/download/KayNetsua/E_Gypt_Moon/2.0.13/
