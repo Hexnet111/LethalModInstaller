@@ -16,3 +16,5 @@ https://thunderstore.io/package/download/Evaisa/LethalLib/0.13.2/
 https://thunderstore.io/package/download/Evaisa/HookGenPatcher/0.0.5/
 https://thunderstore.io/package/download/FlipMods/LetMeLookDown/1.0.1/
 https://thunderstore.io/package/download/scoopy/Scoopys_Variety_Mod/0.6.5/
+https://thunderstore.io/package/download/linkoid/DissonanceLagFix/1.0.0/
+https://thunderstore.io/package/download/Zaggy1024/PathfindingLagFix/1.2.0/
