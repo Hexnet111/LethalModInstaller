@@ -18,3 +18,4 @@ https://thunderstore.io/package/download/FlipMods/LetMeLookDown/1.0.1/
 https://thunderstore.io/package/download/scoopy/Scoopys_Variety_Mod/1.0.0/
 https://thunderstore.io/package/download/linkoid/DissonanceLagFix/1.0.0/
 https://thunderstore.io/package/download/Zaggy1024/PathfindingLagFix/1.2.0/
+https://thunderstore.io/package/download/Drakorle/MoreItems/1.0.2/
